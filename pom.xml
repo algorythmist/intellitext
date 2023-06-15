@@ -8,7 +8,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<lucene.version>4.10.4</lucene.version>
-		<guava.version>30.1-jre</guava.version>
+		<guava.version>32.0.0-jre</guava.version>
 		<apache-poi.version>5.2.1</apache-poi.version>
 		<digester3.version>3.2</digester3.version>
 		<jtidy.version>r938</jtidy.version>
